@@ -4,7 +4,7 @@ I'm a passionate software developer who’s been writing **Ruby on Rails** since
 
 ## 👨‍💻 What I Do
 
-Since **November 2016**, I've been working as the **Lead Programmer & CTO at [Skillmea](https://www.skillmea.cz)** ([Slovak site](https://www.skillmea.sk)).  
+Since **November 2016**, I've been working as the **Lead Programmer & CTO at [Skillmea.sk](https://www.skillmea.sk)** ([Czech site](https://www.skillmea.cz)).  
 I manage a small but mighty team of awesome developers, and together we’re building platforms to help people learn new skills and grow their careers.
 
 ## 🧠 Tech + Hobbies
