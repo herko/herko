@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Lubomir 👋
 
-<!--
-**herko/herko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer who’s been writing **Ruby on Rails** since high school. I love clean code, smart design, and building things that matter.
 
-Here are some ideas to get you started:
+## 👨‍💻 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since **November 2016**, I've been working as the **Lead Programmer & CTO at [Skillmea](https://www.skillmea.cz)** ([Slovak site](https://www.skillmea.sk)).  
+I manage a small but mighty team of awesome developers, and together we’re building platforms to help people learn new skills and grow their careers.
+
+## 🧠 Tech + Hobbies
+
+- ❤️ Ruby on Rails forever
+- 🚵 MTB marathons & XCO enthusiast – love the trails
+- 🎸 Guitar player and music theory nerd in the making
+- 👨‍👧‍👦 Father of **four amazing kids** – yeah, life’s busy, no time for bullshit
+
+## 📫 Let’s Connect
+
+Want to chat about code, music, or bikes? Open an issue or find me around the web (links coming soon 😄).
